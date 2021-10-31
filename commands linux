@@ -1,0 +1,15 @@
+touch file --- for creating a new file
+pwd
+ls
+cd d:/
+vi file name
+echo
+cp  -- copy
+mv  -- move
+locate -- search
+cd..  -- back step
+shift + insert    --- paste the link
+q -- quit
+rm  -- remove
+rm-rf  -- remove the file with re enforcement
+mkdir   --  creating new file
