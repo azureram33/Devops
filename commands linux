@@ -13,3 +13,4 @@ q -- quit
 rm  -- remove
 rm-rf  -- remove the file with re enforcement
 mkdir   --  creating new file
+cat
